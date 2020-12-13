@@ -6,7 +6,6 @@ The goal of this research project is to improve eXplainable AI (XAI) methods by 
 
 
 ## Dataset
----
 The dataset used for this project is [COVIDGR 1.0](https://github.com/ari-dasci/OD-covidgr).
 
 COVIDGR is a set of X-ray images to assist the diagnosis of COVID-19 built in close collaboration with radiology expert teams in Spain.
