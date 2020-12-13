@@ -11,6 +11,6 @@ The dataset used for this project is [COVIDGR 1.0](https://github.com/ari-dasci/
 COVIDGR is a set of X-ray images to assist the diagnosis of COVID-19 built in close collaboration with radiology expert teams in Spain.
 
 ## Usage
-In order to run correctly the notebooks, created a virtual env and then install the requierements.
+In order to run correctly the notebooks, create a virtual environment and then install the requierements.
 - `requirements.txt` for pip
 - `env.yml` for conda
